@@ -22,6 +22,7 @@ public class Main {
             ans[n-ele] = val--;
         }
 
+        // to print the array
         System.out.println(Arrays.toString(ans));        
     }
 }
